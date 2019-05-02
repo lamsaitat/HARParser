@@ -1,7 +1,7 @@
 .DS_Store
 /.build
 /Packages
-/*.xcodeproj
+# /*.xcodeproj  # Allows xcodeproj for Cocoapod support.
 ### https://raw.github.com/github/gitignore/d5ce0fc1d4a677eaa60d5b8e01ac9e42ec7cfcd1/Global/Xcode.gitignore
 
 # Xcode

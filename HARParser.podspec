@@ -9,7 +9,7 @@ Forked from JanGorman/HARParser to support cocoapod
  
   s.homepage         = 'https://github.com/JanGorman/HARParser'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Jan Gorman' }
+  s.author           = 'Jan Gorman'
   s.source           = { :git => 'https://github.com/lamsaitat/HARParser.git' }
  
   s.ios.deployment_target = '10.0'
